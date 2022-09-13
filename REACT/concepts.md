@@ -21,3 +21,7 @@ It utilizes two sorts of components :
 **State**: The state object is a built-in React object that stores information or data about the part. A part’s state can change over the long run, and when it works out, the part should be re-rendered. The part’s state might change as a result of user activity or framework-generated occasions, and these progressions affect the way of behaving of the part.
 
 **Properties (Props)**: Properties are abbreviated as props. It’s a built-in React object that saves the worth of a label’s attributes and functions in basically the same manner as HTML attributes. It permits you to send data starting with one part and then onto the next similarly as arguments are passed in a function.
+
+## JSX
+
+JSX(Javascript + xml)는 자바스크립트에 대한 확장 구문으로서, 리액트에서 element(요소)를 제공해 줍니다. 장점은 매우 다양합니다. 단순히 개발자가 마크업 코드에 익숙하다면, 그것만으로도 JSX를 통해 컴포넌트를 구성하는 데 쉽게 적응할 수 있다는 장점이 있습니다.
