@@ -13,3 +13,11 @@ Mongoose is an ODM (Object Document Mapping) tool for Node.js and MongoDB. It he
 ## Middleware
 
 A middleware is a function that has access to the request and response objects. It can execute any code, transform the request object, or return a response.
+
+## Node.js
+
+Webpack 과 Babel 같은 도구들이 자바스크립트 런타임인 Node.js 를 기반으로 만들어져있습니다. 그렇기에 해당 도구들을 사용하기 위해서 Node.js 를 설치합니다.
+
+## Yarn
+
+Yarn 은 조금 개선된 버전의 npm 이라고 생각하시면 됩니다. npm 은 Node.js 를 설치하게 될 때 같이 딸려오는 패키지 매니저 도구입니다. 프로젝트에서 사용되는 라이브러리를 설치하고 해당 라이브러리들의 버전 관리를 하게 될 때 사용하죠. 우리가 Yarn 을 사용하는 이유는, 더 나은 속도, 더 나은 캐싱 시스템을 사용하기 위함입니다.
