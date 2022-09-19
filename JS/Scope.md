@@ -2,7 +2,7 @@
 
 The scope is a policy that manages the accessibility of variables.
 
-The code block of if, for, while statements also create a scope.
+The code block of *if, for, while statements* also create a scope.
 
 The inner scope can access the variables of its outer scope.
 
@@ -14,11 +14,11 @@ window and document, for example, are global variables supplied by the browser
 
 ## Lexical Scope
 
-Lexical scoping means that the accessibility of variables is determined statically by the position of the variables within the nested function scopes: the inner function scope can access variables from the outer function scope.
+Lexical scoping means that the accessibility of variables is determined statically by the position of the variables within the nested _function scopes_: the inner function scope can access variables from the outer function scope.
 
-Moreover, the innerFunc() is a closure because it captures the variable outerVar from the lexical scope.
+Moreover, *the innerFunc() is a closure* because it captures the variable outerVar from the lexical scope.
 
-자바스크립트는 함수 레벨 스코프(function-level scope)를 따른다. 함수 레벨 스코프란 함수 코드 블록 내에서 선언된 변수는 함수 코드 블록 내에서만 유효하고 함수 외부에서는 유효하지 않다(참조할 수 없다)는 것이다.
+자바스크립트는 *함수 레벨 스코프*(function-level scope)를 따른다. 함수 레벨 스코프란 함수 코드 블록 내에서 선언된 변수는 함수 코드 블록 내에서만 유효하고 함수 외부에서는 유효하지 않다(참조할 수 없다)는 것이다.
 
 단, ECMAScript 6에서 도입된 let keyword를 사용하면 블록 레벨 스코프를 사용할 수 있다.
 

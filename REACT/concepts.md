@@ -1,6 +1,6 @@
 ## Fundamentals of React
 
-**Components**: Components are the fundamental building elements of each React application, and most applications include a few components. A part is a user interface element. React divides the user interfaces into distinct, reusable components that might be taken care of independently.
+_Components_: Components are the fundamental building elements of each React application, and most applications include a few components. A part is a user interface element. React divides the user interfaces into distinct, reusable components that might be taken care of independently.
 
 It utilizes two sorts of components :
 
