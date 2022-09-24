@@ -18,3 +18,7 @@ https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/
 
 3. Lazy Loading Improves SEO
    Page speed is a critical factor that influences SEO (and makes search engines more likely to recommend your page). Because your page load time is very low, search engines will love your site.
+
+## The Impact of Loading Images
+
+<!-- https://www.pingdom.com/blog/new-facts-and-figures-about-image-format-use-on-websites/ -->
